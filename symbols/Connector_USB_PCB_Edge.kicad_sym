@@ -27,7 +27,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_USB_PCB_Edge:USB_A_PCB_Edge_receptacle"
+		(property "Footprint" "PCM_Connector_USB_PCB_Edge:USB_A_PCB_Edge_receptacle"
 			(at 3.81 -1.27 0)
 			(effects
 				(font

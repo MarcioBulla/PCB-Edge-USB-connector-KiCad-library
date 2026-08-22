@@ -36,13 +36,13 @@
       ],
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "status": "stable",
           "kicad_version": "8.0",
-          "download_url": "https://github.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library/releases/download/v1.0.0/PCB-Edge-USB-connector-KiCad-library-1.0.0.zip",
-          "download_sha256": "788c972aded2af7984b3a28115c50b4b29c9aef4e0cf0d4542b5bab7c15c5cca",
+          "download_url": "https://github.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library/releases/download/v1.0.1/PCB-Edge-USB-connector-KiCad-library-1.0.1.zip",
+          "download_sha256": "c938e3e0eacbe217bae4897b7b3599cdd4a6056aad8ce7dbe46446ae6e5fa48b",
           "download_size": 9092,
-          "install_size": 40502
+          "install_size": 40507
         }
       ]
     }

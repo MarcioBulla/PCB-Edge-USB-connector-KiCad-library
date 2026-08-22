@@ -9,8 +9,8 @@
   },
   "packages": {
     "url": "https://raw.githubusercontent.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library/pcm-repository/packages.json",
-    "sha256": "c6f841692eb56129c2e3d247231e1def1a23280bfe43516a703b09ea2b95ee69",
-    "update_time_utc": "2026-08-22 16:08:25",
-    "update_timestamp": 1787414905
+    "sha256": "75463b3392926efad103a8014f3855c3096cf0356863aeaa54d20f36eae1d0a4",
+    "update_time_utc": "2026-08-22 18:14:56",
+    "update_timestamp": 1787422496
   }
 }

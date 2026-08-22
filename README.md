@@ -28,6 +28,18 @@ I know that PCB Edge is not the most reliable and useful USB connector. Still, i
 
 ## How to install and use this library
 
+### Install from the custom repository
+
+1. Open KiCad's **Plugin and Content Manager**.
+2. Click **Manage...**, then **Add Repository**.
+3. Paste this URL:
+
+   `https://raw.githubusercontent.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library/main/repository.json`
+
+4. Select **USB Edge Connectors Repository**, install the library, and apply the pending changes.
+
+### Install from a file
+
 1. Download the .zip version of this repo
 2. Open KiCad "Plugin and Content Manager"
 3. Press the "Install from file" button at the bottom of this window
@@ -37,4 +49,3 @@ I know that PCB Edge is not the most reliable and useful USB connector. Still, i
 Or you can install it manually unpacking symbol and footprint files in the system or project folders and setting up the correct paths.
 
 To use the library find its components in the "PCM_Connector_USB_PCB_Edge" folder in the symbol manager. Footprints should be connected from the "PCM_" prefix footprint folder.
-

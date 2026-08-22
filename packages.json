@@ -1,0 +1,50 @@
+{
+  "packages": [
+    {
+      "$schema": "https://go.kicad.org/pcm/schemas/v1",
+      "name": "USB Edge Connectors KiCad Library",
+      "description": "USB-C, Micro-USB and USB-A PCB edge connector library",
+      "description_full": "KiCad symbols and footprints for PCB-edge USB Type-C, Micro-USB and USB Type-A connectors.",
+      "identifier": "com.github.vasya-zh.PCB-Edge-USB-connector-KiCad-library",
+      "type": "library",
+      "author": {
+        "name": "Vasilii Zhuravskii (vasya-zh)",
+        "contact": {
+          "email": "vasily.zhuravsky@gmail.com",
+          "web": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library"
+        }
+      },
+      "maintainer": {
+        "name": "Vasilii Zhuravskii (vasya-zh)",
+        "contact": {
+          "email": "vasily.zhuravsky@gmail.com",
+          "web": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library"
+        }
+      },
+      "license": "GPL-3.0",
+      "resources": {
+        "homepage": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library",
+        "repository": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library"
+      },
+      "tags": [
+        "footprint",
+        "library",
+        "usb",
+        "edge",
+        "usb-c",
+        "microusb"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "status": "stable",
+          "kicad_version": "8.0",
+          "download_url": "https://github.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library/releases/download/v1.0.0/PCB-Edge-USB-connector-KiCad-library-1.0.0.zip",
+          "download_sha256": "788c972aded2af7984b3a28115c50b4b29c9aef4e0cf0d4542b5bab7c15c5cca",
+          "download_size": 9092,
+          "install_size": 40502
+        }
+      ]
+    }
+  ]
+}

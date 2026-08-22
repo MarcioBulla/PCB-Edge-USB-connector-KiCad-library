@@ -1,0 +1,16 @@
+{
+  "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+  "name": "USB Edge Connectors Repository",
+  "maintainer": {
+    "name": "MarcioBulla",
+    "contact": {
+      "web": "https://github.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library"
+    }
+  },
+  "packages": {
+    "url": "https://raw.githubusercontent.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library/main/packages.json",
+    "sha256": "47ee6bc79e18e6ca260a45e89c25fe2338365e4af5639300fa76c85b68110abf",
+    "update_time_utc": "2026-08-22 15:50:53",
+    "update_timestamp": 1787413853
+  }
+}

@@ -1,19 +1,27 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "USB Edge connectors Kicad Library",
-    "description": "USB-C, microUSB and USB-A Edge connectors KiCAD library",
-    "description_full": "This package contains footprints and symbols for Edge versions of the USB type C, microUSB and USB-A",
-    "identifier": "com.github.vasya-zh.PCB-Edge-USB-connector-KiCad-library",
+  "name": "USB Edge Connectors KiCad Library",
+  "description": "USB-C, Micro-USB and USB-A PCB edge connector library",
+  "description_full": "KiCad symbols and footprints for PCB-edge USB Type-C, Micro-USB and USB Type-A connectors.",
+  "identifier": "com.github.MarcioBulla.PCB-Edge-USB-connector-KiCad-library",
     "type": "library",
-    "author": {
+  "author": {
         "name": "Vasilii Zhuravskii (vasya-zh)",
         "contact": {
-            "email": "vasily.zhuravsky@gmail.com"
-        }
-    },
+      "email": "vasily.zhuravsky@gmail.com",
+      "web": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library"
+    }
+  },
+  "maintainer": {
+    "name": "MarcioBulla",
+    "contact": {
+      "web": "https://github.com/MarcioBulla"
+    }
+  },
     "license": "GPL-3.0",
     "resources": {
-        "Github": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library"
+    "homepage": "https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library",
+    "repository": "https://github.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library"
     },
     "tags": [
         "footprint",
@@ -25,9 +33,13 @@
     ],
     "versions": [
         {
-            "version": "1.0",
-            "status": "stable",
-            "kicad_version": "8.0"
+      "version": "1.0.0",
+      "status": "stable",
+      "kicad_version": "8.0",
+      "download_url": "https://github.com/MarcioBulla/PCB-Edge-USB-connector-KiCad-library/releases/download/v1.0.0/PCB-Edge-USB-connector-KiCad-library-1.0.0.zip",
+      "download_sha256": "2f3096917069a5103edda7b4f9396dc8308c184cec03c42dbfa4b3214359e1db",
+      "download_size": 219518,
+      "install_size": 568654
         }
     ]
 }
